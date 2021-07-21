@@ -1,3 +1,7 @@
+# Installs everything via Brew
+# See https://docs.brew.sh/Manpage#bundle-subcommand
+# To use, clone/copy this file somewhere, then "brew bundle install Brewfile"
+# Assumes obviously that Brew is installed
 tap "homebrew/bundle"
 tap "homebrew/cask"
 tap "homebrew/core"
